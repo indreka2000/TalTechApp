@@ -1,1 +1,1 @@
-# TalTechApp
+TalTech application is authorized by Indrek Arumets, BA student at TalTech. The focus of this project is to make an Android application for TalTech students, where they can check out the indoor climate situation, carpark data and their lessonplan depending on their speciality and course. The aim of this project is to attract attention to the indoor climate and make it more manageable with smartphone. 
